@@ -11,4 +11,3 @@ We create a honeypot, using  Modern Honey Network (MHN).
   - Attack Stats
     ![stats image](https://github.com/ramonpetgrave64/Cybersecurity-University-Week-9-Honeypot/blob/master/attack%20stats.PNG?raw=true)
   - Also, to allow http in Google Cloud Compute, I had to go to the console and specificallow http for the instance, otherwise I would only be able to connect to the HoneyMap at port 3000
-- Any unresolved questions raised by the data collected
